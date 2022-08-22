@@ -21,9 +21,22 @@ SSD1306 OLED 128x32 | 1
 ## Wiring
 
 [KLE](http://www.keyboard-layout-editor.com/#/gists/4cfd5da9ece87a8a6bd2f5c80a84bed2)
+
 Updating ...
 
 ## Firmware & Flashing
+
+Put the Pro Micro into bootloader mode by connecting RST and GND pins together 2 times
+
+### Using QMK Toolbox
+
+[Download QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
+
+[Download .hex file]()
+
+Updating ...
+
+### Build from source
 
 Clone my fork of [Vial](https://github.com/frostbun/vial-qmk)
 ```bash
@@ -35,14 +48,17 @@ Cd into the directory
 cd vial-qmk
 ```
 
+Install dependencies
+```bash
+sh util/qmk_install.sh
+```
+
 Clone the submodules
 ```bash
 make git-submodule
 ```
 
-Put the Pro Micro into bootloader mode by connecting GND and RST pins together 2 times
-
-Build & flash the firmware
+Compile & flash the firmware
 ```bash
 make frostbun/phoboard:vial:flash
 ```
