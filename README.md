@@ -6,6 +6,10 @@
 
 ## Case & Plate
 
+Download [.skp](case_plate/phoboard.skp), [.dxf](case_plate/phoboard.dxf)
+
+![Render](image/phoboard_render.png)
+
 Updating ...
 
 ## Materials
