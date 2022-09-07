@@ -18,8 +18,8 @@ Material | Quantity
 ---|---
 SparkFun Pro Micro 5V/16MHz | 1
 Any MX Style Switch | 62
-2U Stabilizer | 4
 1N4148 Diode | 62
+2U Stabilizer | 4
 SSD1306 OLED 128x32 | 1
 
 ## Wiring
@@ -30,13 +30,13 @@ Updating ...
 
 ## Firmware & Flashing
 
-Put the Pro Micro into bootloader mode by connecting RST and GND pins together 2 times
+Put the Pro Micro into bootloader mode by connecting RST and GND pins together 1 or 2 times depending on the board
 
 ### Using QMK Toolbox
 
 [Download QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
 
-[Download .hex file]()
+[Download .hex file](frostbun_phoboard_vial.hex)
 
 Updating ...
 
