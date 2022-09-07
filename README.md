@@ -6,7 +6,7 @@
 
 ## Case & Plate
 
-Download [.skp](case_plate/phoboard.skp), [.dxf](case_plate/phoboard.dxf)
+Download .skp and .dxf [here](case_plate.zip)
 
 ![Render](image/phoboard_render.png)
 
