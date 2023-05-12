@@ -1,12 +1,12 @@
 # Phở Bòard
 
-![QMK](image/qmk.png)
-![VIA](image/via.png)
-![Vial](image/vial.png)
+[![QMK](image/qmk.png)](https://docs.qmk.fm/)
+[![VIA](image/via.png)](https://www.caniusevia.com/)
+[![Vial](image/vial.png)](https://get.vial.today/)
 
 ## Case & Plate
 
-Download .skp and .dxf [here](case_plate.zip)
+[Download .skp and .dxf](case_plate.zip)
 
 ![Render](image/phoboard_render.png)
 
